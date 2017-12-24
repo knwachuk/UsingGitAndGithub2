@@ -9,7 +9,7 @@ What value do you think it offers?
 
 The WORKING DIRECTORY and REPOSITORY are different from the STAGGING AREA due
 to the fact that the files do not live in the STAGGING AREA. It is there merely
-to inform Git that these are the files to commit.
+to inform Git that these are the files to be committed.
 
 How can you use the staging area to make sure you have one commit per logical
 change?
@@ -33,7 +33,7 @@ What is the result of merging two branches together? Why do we represent it in
 the diagram the way we do?
 
 The result of merging two branches is a combination of code (actively added or
-left alone) code between the two branches. It is represented in the graph for
+left alone) between the two branches. It is represented in the graph for
 easier understanding.
 
 What are the pros and cons of Git’s automatic merging vs. always doing merges
