@@ -1,8 +1,8 @@
 When would you want to use a remote repository rather than keeping all your work
 local?
 
-Initially, I was under the impression that I would only want to use remote when I
-am working with others. However, after thinking about it and becoming more 
+Initially, I was under the impression that I would only want to use remote when
+I am working with others. However, after thinking about it and becoming more 
 proficient with Git/GitHub, it feels essential to use remotes as they can free
 the developer to work anywhere and with any machine.
 
