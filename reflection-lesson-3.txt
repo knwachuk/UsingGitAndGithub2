@@ -5,3 +5,12 @@ Initially, I was under the impression that I would only want to use remote when 
 am working with others. However, after thinking about it and becoming more 
 proficient with Git/GitHub, it feels essential to use remotes as they can free
 the developer to work anywhere and with any machine.
+
+Why might you want to always pull changes manually rather than having Git
+automatically stay up-to-date with your remote repository?
+
+For exactly the same reason as you want to manually decide when to commit a
+change. Automatic ambiguous changes can cause more problmes (in the long run)
+than solutions. The purpose of git is to make you a more EFFICIENT
+programmer. Introducing errors via automated pull and push request defeats that
+purpose.
