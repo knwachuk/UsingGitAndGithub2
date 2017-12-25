@@ -14,3 +14,14 @@ change. Automatic ambiguous changes can cause more problmes (in the long run)
 than solutions. The purpose of git is to make you a more EFFICIENT
 programmer. Introducing errors via automated pull and push request defeats that
 purpose.
+
+Describe the differences between forks, clones, and branches.  When would you
+use one instead of another?
+
+Fork is the "clone" command (strictly) under the context of GitHub.
+
+Clone is a copy of repository (either from GitHub to local or from a local
+directory to another local directory) with meta data that is actionable by git.
+
+Branch is a separation of two paths in the commit history of a
+repository. Either locally housed or remotely.
