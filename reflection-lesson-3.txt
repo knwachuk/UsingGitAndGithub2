@@ -43,3 +43,18 @@ it would be MUCH harder to track changes (version/history control) and even
 more difficult to know when something has gone wrong in the code base. Git(Hub)
 helps to keep those information obvious, thereby preventing, otherwise, 
 difficult to track errors.
+
+When would you want to make changes in a separate branch rather than directly 
+in master?  What benefits does each approach have?
+
+Admittedly, the round-about method of using pull request requires it's own
+dissertation just to understand, the methodology is so that changes can be
+reviewed by other members of the project BEFORE they are incorporated into the
+master (live) branch of the project. The idea is to add multiple
+points-of-failure in order to increase the robustness of the code base. Even
+though it WILL still take me a while to wrap my head around the pull request
+workflow, I can already appreciate the purpose of it all.
+
+I wrote the above paragraph about 8 months ago, and it is still taking a while
+just to completely understand the pull request workflow. Perhaps due to
+inconsistent utilization of git.
