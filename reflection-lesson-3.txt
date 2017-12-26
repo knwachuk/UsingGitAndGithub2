@@ -58,3 +58,6 @@ workflow, I can already appreciate the purpose of it all.
 I wrote the above paragraph about 8 months ago, and it is still taking a while
 just to completely understand the pull request workflow. Perhaps due to
 inconsistent utilization of git.
+
+Now as to using a branch proper: whenever a change is more invovled, it will be
+prudent to use another branch for the reasons highlighted above.
