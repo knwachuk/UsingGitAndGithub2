@@ -25,3 +25,10 @@ directory to another local directory) with meta data that is actionable by git.
 
 Branch is a separation of two paths in the commit history of a
 repository. Either locally housed or remotely.
+
+What is the benefit of having a copy of the last known state of the remote
+stored locally?
+
+It enables one to work with confidence concerning the most recent changes and
+helps work entirely offline knowing that every committed changes in the remote
+repository until that moment resides in your local repository.
